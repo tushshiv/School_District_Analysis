@@ -7,7 +7,8 @@ The purpose of this report is to analyze the variations in the data from the   *
 
 ### District summary 
 
-![district summary](District_summary.PNG)
+
+![IMAGE](District_summary.PNG)
 
 
 ### School summary
