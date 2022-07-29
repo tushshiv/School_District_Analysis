@@ -7,18 +7,10 @@ The purpose of this report is to analyze the variations in the data from the   *
 
 ### District summary 
 
-![image](District_ summary.PNG)
+![district summary](District_summary.PNG)
+
 
 ### School summary
 ![IMAGE](school_summary.PNG)
 
-### Thomas High School’s performance relative to the other schools
-
-### Impact of Replacing the ninth-grade scores on the following:
-* Math and reading scores by grade
-
-* Scores by school spending
-
-* Scores by school size
-
-* Scores by school type
+## Summary
