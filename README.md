@@ -7,7 +7,10 @@ The purpose of this report is to analyze the variations in the data from the   *
 
 ### District summary 
 
+![image](District_ summary.PNG)
+
 ### School summary
+![IMAGE](school_summary.PNG)
 
 ### Thomas High School’s performance relative to the other schools
 
