@@ -15,3 +15,5 @@ The purpose of this report is to analyze the variations in the data from the   *
 ![IMAGE](school_summary.PNG)
 
 ## Summary
+* Highest passing passing percentage of  91.334 can be found for Carbera High school
+* Lowest passing perceentage can be found for Hernandez high School with a passing percentage of 53 percent.
